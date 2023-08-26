@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- tsc --init",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Lucas Marques <xjmarques@hotmail.com> (https://www.linkedin.com/in/marques-lucas/)",
+  "license": "FATEC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
