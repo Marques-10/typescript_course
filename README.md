@@ -1,5 +1,13 @@
 ## Curso de Typescript
 
+### Capítulo 1:
+- Introdução
+
+### Capítulo 2:
+- Usando Tipos
+
+<br><hr><br>
+
 ### Como iniciar o Typescript:
 - tsc --init
 
