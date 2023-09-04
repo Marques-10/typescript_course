@@ -151,16 +151,11 @@ podeSerNulo = 12;
 console.log(podeSerNulo);
 podeSerNulo = 'abc';
 console.log(podeSerNulo);
-let contaBancaria = {
-    saldo: 3456,
-    depositar: (valor) => {
-        this.saldo += valor;
-    }
-};
-let correntista = {
-    nome: 'Ana Silva',
-    contaBancaria: contaBancaria,
-    contatos: ['322441000', '333441000']
-};
-correntista.contaBancaria.depositar(3000);
-console.log(correntista);
+// let correntista: Correntista = {
+//     nome: 'Ana Silva',
+//     contaBancaria: contaBancaria,
+//     contatos: ['322441000', '333441000']
+// }
+// correntista.contaBancaria.depositar(3000)
+// console.log(correntista)
+//# sourceMappingURL=tipos.js.map

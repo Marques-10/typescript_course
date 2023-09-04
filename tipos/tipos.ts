@@ -212,12 +212,12 @@ type ContaBancaria = {
     depositar: (valor: number) => void
 }
 
-let contaBancaria: ContaBancaria = {
-    saldo: 3456,
-    depositar: (valor: number): void => {
-        this.saldo += valor
-    }
-}
+// let contaBancaria: ContaBancaria = {
+//     saldo: 3456,
+//     depositar: (valor: number): void => {
+//         this.saldo += valor
+//     }
+// }
 
 type Correntista = {
     nome: string,
@@ -225,11 +225,11 @@ type Correntista = {
     contatos: string[]
 }
 
-let correntista: Correntista = {
-    nome: 'Ana Silva',
-    contaBancaria: contaBancaria,
-    contatos: ['322441000', '333441000']
-}
+// let correntista: Correntista = {
+//     nome: 'Ana Silva',
+//     contaBancaria: contaBancaria,
+//     contatos: ['322441000', '333441000']
+// }
 
-correntista.contaBancaria.depositar(3000)
-console.log(correntista)
+// correntista.contaBancaria.depositar(3000)
+// console.log(correntista)

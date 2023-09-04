@@ -6,6 +6,12 @@
 ### Capítulo 2:
 - Usando Tipos
 
+### Capítulo 3:
+- Entendendo o compilador TypeScript
+
+### Capítulo 4:
+- TypeScript e os novos recursos ECMAScript
+
 <br><hr><br>
 
 ### Como iniciar o Typescript:
