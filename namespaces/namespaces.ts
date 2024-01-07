@@ -1,0 +1,9 @@
+/// <reference path="geometriaCirc.ts" />
+/// <reference path="geometriaRect.ts" />
+
+// const PI = 2.99
+
+console.log(Geometria.Area.circunferencia(12))
+console.log(Geometria.Area.retangulo(20, 20))
+
+// console.log(PI)
