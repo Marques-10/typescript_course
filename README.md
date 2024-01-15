@@ -21,6 +21,9 @@
 ### Capítulo 7:
 - Interfaces
 
+### Capítulo 8:
+- Genéricos
+
 <br><hr><br>
 
 ### Como iniciar o Typescript:
