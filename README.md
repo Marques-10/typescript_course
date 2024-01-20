@@ -24,6 +24,9 @@
 ### Capítulo 8:
 - Genéricos
 
+### Capítulo 9:
+- Decorators
+
 <br><hr><br>
 
 ### Como iniciar o Typescript:
